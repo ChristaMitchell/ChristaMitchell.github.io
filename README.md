@@ -2,4 +2,4 @@
 
 Hello there!  
 
-![Nifler](https://github.com/ChristaMitchell/ChristaMitchell.github.io/blob/main/Niffler%20Crop.jpg)
+![Niffler%20Crop](https://github.com/ChristaMitchell/ChristaMitchell.github.io/blob/main/Niffler%20Crop.jpg)
