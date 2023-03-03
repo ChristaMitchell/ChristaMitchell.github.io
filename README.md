@@ -1,6 +1,8 @@
-# Magical Beast Guide
+# ChristaMitchell.github.io  
 
-## **Niffler - The notorious thief**  
+## Magical Beast Guide  
+
+### **Niffler - The notorious thief**  
 This magical beast loves collecting anything shiny. Especially gold!
 
 ![Niffler](https://github.com/ChristaMitchell/ChristaMitchell.github.io/raw/main/Niffler%20Crop.jpg)
